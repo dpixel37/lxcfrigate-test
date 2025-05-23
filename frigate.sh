@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-source <(curl -fsSL https://github.com/dpixel37/lxcfrigate-test/blob/main/build.func)
+source <(curl -fsSL https://raw.githubusercontent.com/dpixel37/lxcfrigate-test/refs/heads/main/build.func)
 # Copyright (c) 2021-2025 tteck
 # Authors: tteck (tteckster)
 # License: MIT | https://github.com/community-scripts/ProxmoxVE/raw/main/LICENSE
